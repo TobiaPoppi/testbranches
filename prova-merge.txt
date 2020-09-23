@@ -1,2 +1,1 @@
-Ok, scusa, avevo sbagliato a non fare pull!!
-...comunque, ho lo stesso cambiato idea, adesso questo e' il contenuto del file
+Questo file era stato caricato su studenti. io ora lo modifico faccio la mia versione di codice e invece che fare commit su studenti lo facio sul mio branch
